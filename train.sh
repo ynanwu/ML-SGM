@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python -u demo.py > ./log/1129_test.txt 2>&1 &
